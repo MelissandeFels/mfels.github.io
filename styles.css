@@ -1,0 +1,102 @@
+body
+{
+    background-color:#02ADDF; 
+}
+#wrapper
+{
+    width:940px;
+    margin:0 auto;
+    border:5px solid #4DC08C;
+    border-radius:10px;
+    box-shadow:2px 3px 4px black;
+    background-color: white;
+}
+.Infophoto
+{
+    height:250px;
+}
+.Info
+{
+    float:left;
+    margin-left:20px; 
+}
+.Info strong
+{
+    font-size:50px;
+    color:#FC0B58;
+}
+.photo
+{
+    float:right;
+    margin-right:20px;
+    margin-top:20px; 
+}
+.section
+{
+    margin-bottom:30px;
+    margin-left:20px;
+    text-align:justify;  
+}
+.section-gauche
+{
+    float:left;
+    font-weight:bold;
+    font-size:20px;
+}
+.section-gauche p
+{
+    margin-bottom:20px;
+}
+#formations h2
+{
+    margin-top:75px; 
+}
+#forma-gauche p
+{
+    margin-bottom:42px; 
+}
+#exp-gauche p
+{
+   margin-bottom:48%;
+}
+.ep-droite p
+{
+    margin-bottom:20px;
+}
+#comp-droite1 p
+{
+    margin-top:24px;
+}
+#comp-droite2 p
+{
+    margin-top:20px
+}
+.section-droite
+{
+    margin-right:20px; 
+    margin-left:370px;
+    margin-top:35px;
+}
+.section-droite p
+{
+    /*margin-top:auto;*/
+}
+.section h2
+{
+    font-family:Tahoma, serif;
+    font-size:30px;
+    color:#034599;
+    border-bottom:5px solid #FA04A4;
+    margin-right:20px; 
+}
+.duree
+{
+    font-weight:normal;
+    font-style:italic;
+    font-size:20px;
+}
+.titre
+{ 
+    font-weight:bold;
+    font-size:20px; 
+}
